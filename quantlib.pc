@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: QuantLib
+Description: The free/open-source library for quantitative finance.
+Version: 1.9
+Cflags: -I${prefix}/include  
+Libs: -L${exec_prefix}/lib  -lQuantLib  

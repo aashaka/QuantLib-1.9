@@ -1,0 +1,16 @@
+Making all in config
+make[1]: Entering directory '/home/aashaka/QuantLib-1.9/config'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/aashaka/QuantLib-1.9/config'
+Making all in ql
+make[1]: Entering directory '/home/aashaka/QuantLib-1.9/ql'
+make  all-recursive
+make[2]: Entering directory '/home/aashaka/QuantLib-1.9/ql'
+Making all in cashflows
+make[3]: Entering directory '/home/aashaka/QuantLib-1.9/ql/cashflows'
+make[3]: Leaving directory '/home/aashaka/QuantLib-1.9/ql/cashflows'
+Makefile:673: recipe for target 'all-recursive' failed
+make[2]: Leaving directory '/home/aashaka/QuantLib-1.9/ql'
+Makefile:507: recipe for target 'all' failed
+make[1]: Leaving directory '/home/aashaka/QuantLib-1.9/ql'
+Makefile:602: recipe for target 'all-recursive' failed

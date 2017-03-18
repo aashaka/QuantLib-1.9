@@ -1,0 +1,4 @@
+make[3]: *** No rule to make target 'conundrumpricer.cpp', needed by 'conundrumpricer.lo'.  Stop.
+make[2]: *** [all-recursive] Error 1
+make[1]: *** [all] Error 2
+make: *** [all-recursive] Error 1
